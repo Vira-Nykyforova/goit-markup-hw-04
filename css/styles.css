@@ -314,7 +314,6 @@ width: 40px;
 height: 40px;
       }
 .social-media-icon {
-border-radius: 50%;
 fill: #f4f4fd;
       }
 
@@ -370,7 +369,6 @@ transition-property: box-shadow;
 transition-duration: 250ms;
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 transition-delay: 0;
-border: 1px solid #F4F4FD;
 }
 
 .portfolio-item:hover .portfolio-cover-text {
@@ -378,7 +376,6 @@ transform: translateY(0%);
   }
 
 .portfolio-item:hover {
-border: 1px solid var(--CLOUD, #f4f4fd);
 box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
 0px 1px 1px 0px rgba(46, 47, 66, 0.16),
 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
